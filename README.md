@@ -11,11 +11,11 @@
 
 ## 🧾 Información General
 
-- **Nombre completo:**  
-- **Edad:**  
-- **Grado / Sección:**  
-- **Especialidad:**  
-- **Institución:**  
+- **Nombre completo: Jonathan Roberto González Cruz**  
+- **Edad: 17 Años**  
+- **Grado / Sección: Tercero ''B''**  
+- **Especialidad: Software**  
+- **Institución: Instituto Nacional de Santiago de María**  
 
 ---
 
