@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 # 📘 README – Perfil del Estudiante
 
 ## 🧾 Información General
