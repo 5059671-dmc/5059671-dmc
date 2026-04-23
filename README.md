@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gemaortizprivados23-lgtm/gemaortizprivados23-lgtm/main/banner.png" width="95%" />
+  <img src="https://github.com/5059671-dmc/5059671-dmc/blob/403d41d6b5a9660b8391eac4a0ba856040174675/Gemini_Generated_Image_loyjb1loyjb1loyj.png" width="95%" />
 </p>
 
 
