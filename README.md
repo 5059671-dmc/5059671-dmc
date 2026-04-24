@@ -21,9 +21,9 @@
 
 ## 🎯 Intereses
 
-- Interés 1  
-- Interés 2  
-- Interés 3  
+- Videojuegos
+- Cocina
+- Fotografia  
 
 ---
 
